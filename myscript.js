@@ -85,12 +85,50 @@ var students =
       "lastName": "FName",
       "firstName": "LName"
     },
+
     {
       "path": "100671334",
       "lastName": "Stokes-Beeston",
       "firstName": "Nicholas"
-    }
+    },
 
+
+    {
+      "path": "100667282",
+      "lastName": "Kai",
+      "firstName": "Hanson"
+    },
+
+
+    {
+
+      "path": "100667729",
+      "lastName": "Brandon",
+      "firstName": "Viglione"
+    },
+
+      "path": "100670093",
+      "lastName": "Hastings",
+      "firstName": "Andrew"
+    },
+
+    {
+      "path": "10000000",
+      "lastName": "Kussay ",
+      "firstName": "Again"
+    },
+
+{
+      "path": "100665554",
+      "lastName": "Jingxi",
+      "firstName": "Fan"
+    },
+
+    {
+          "path": "100659802",
+          "lastName": "KABIR",
+          "firstName": "MOHD IBRAHIM"
+        }
     
    ];
 
