@@ -84,6 +84,11 @@ var students =
       "path": "100800000",
       "lastName": "FName",
       "firstName": "LName"
+    },
+    {
+      "path": "100670093",
+      "lastName": "Hastings",
+      "firstName": "Andrew"
     }
 
     
