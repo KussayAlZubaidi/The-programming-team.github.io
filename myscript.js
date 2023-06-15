@@ -84,8 +84,13 @@ var students =
       "path": "100800000",
       "lastName": "FName",
       "firstName": "LName"
-    }
+    },
 
+{
+      "path": "100665554",
+      "lastName": "Jingxi",
+      "firstName": "Fan"
+    }
     
    ];
 
