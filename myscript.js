@@ -87,6 +87,13 @@ var students =
     },
 
     {
+      "path": "100671334",
+      "lastName": "Stokes-Beeston",
+      "firstName": "Nicholas"
+    },
+
+
+    {
       "path": "100667282",
       "lastName": "Kai",
       "firstName": "Hanson"
@@ -105,17 +112,11 @@ var students =
       "firstName": "Andrew"
     },
 
-
-
-
     {
       "path": "10000000",
       "lastName": "Kussay ",
       "firstName": "Again"
     },
-
-
-
 
 {
       "path": "100665554",
