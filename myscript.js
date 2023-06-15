@@ -51,9 +51,9 @@ var students =
 
     },
     {
-      "path": "10020000",
-      "lastName": "FName",
-      "firstName": "LName"
+      "path": "100671335",
+      "lastName": "Raymond",
+      "firstName": "Lam"
     },
     {
       "path": "10030000",
@@ -85,12 +85,66 @@ var students =
       "lastName": "FName",
       "firstName": "LName"
     },
+
     {
       "path": "100665577",
       "lastName": "Skinner",
       "firstName": "Zachary"
-    }
+    },
 
+
+    {
+      "path": "100666192",
+      "lastName": "Lam",
+      "firstName": "Pamela"
+    },
+
+
+    {
+      "path": "100671334",
+      "lastName": "Stokes-Beeston",
+      "firstName": "Nicholas"
+    },
+
+
+    {
+      "path": "100667282",
+      "lastName": "Kai",
+      "firstName": "Hanson"
+    },
+
+
+
+    {
+
+
+      "path": "100667729",
+      "lastName": "Brandon",
+      "firstName": "Viglione"
+    },
+
+      "path": "100670093",
+      "lastName": "Hastings",
+      "firstName": "Andrew"
+    },
+
+    {
+      "path": "10000000",
+      "lastName": "Kussay ",
+      "firstName": "Again"
+    },
+
+{
+      "path": "100665554",
+      "lastName": "Jingxi",
+      "firstName": "Fan"
+    },
+
+    {
+          "path": "100659802",
+          "lastName": "KABIR",
+          "firstName": "MOHD IBRAHIM"
+        }
     
    ];
 
