@@ -1,0 +1,200 @@
+﻿body {
+    background-color: #5680E9;
+}
+
+div.header-container {
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    height: 64px;
+    background-color: #5680E9;
+    z-index: 2;
+}
+
+.logo {
+    position: fixed;
+} 
+
+.header {
+    position: fixed;
+    left: 270px;
+    padding-left: 10px;
+    padding-top: 1px;
+    top: 3px;
+    height: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #C1C8E4;
+}
+
+ul {
+    position: fixed;
+    list-style-type: none;
+    margin:0;
+    right: 10px;
+    top: 0px;
+}
+
+li {
+    float: right; 
+}
+
+.navbtn button {
+    width:256px;
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 64px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 37px;
+    background-color: #5680E9;
+    border:#63BCE5;
+    color: #C1C8E4;
+    z-index: 3;
+}
+
+.navbtn button:hover{
+    background-color: azure;
+}
+
+.navbtn-dropdown button:hover {
+    background-color: azure;
+}
+
+.navbtn-dropdown button {
+    width:256px;
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 64px;
+    display: inline block;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 37px;
+    background-color: #5680E9;
+    border:#63BCE5;
+    color:#C1C8E4;
+    z-index: 3;
+}
+
+.navbtn-dropdown:hover .dropdownct {
+    display:block;
+}
+
+
+.dropdownct {
+    display: none;
+    position: absolute;
+}
+
+.dropdownct a {
+    padding: 12px 16px;
+    width: 256px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    height: 32px;
+    font-size: 25px;
+    background-color: #5680E9
+}
+
+.dropdownct a:hover {
+    background-color: azure;
+}
+
+
+
+
+
+
+
+.bodyimgmain {
+    width: 100%;
+    padding: 0px;
+}
+
+.description-box {
+    position: absolute; 
+    top: 150px;
+    left: 100px;
+
+    background-color:#C1C8E4;
+    display:block;
+    z-index: 0;
+    width: 520px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+}
+
+.descriptionbox-header {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 80px;
+    font-size: 40px;
+}
+
+.descriptionbox-text {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 60px;
+    font-size: 25px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+.current-imagebox {
+    float: left;
+    width: 32%;
+    border-style:   solid;
+    border-width: 2px;
+    border-color: black;
+    margin-left: 1%;
+    z-index: 0;
+    background-color: white;
+    margin-bottom: 15px;
+}
+
+.current-imagebox img{
+    width:100%;
+    z-index: 0;
+}
+
+.current-imgdesc {
+    position: relative;
+    width: 80%;
+    border: solid;
+    border-color: black;
+    left:10%;
+    text-align: center;
+    bottom: 30px;
+}
+
+.current-imgdesc h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.current-imgdesc p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.currentworksheader {
+    background-color: #5680E9;
+    color:#C1C8E4;
+    z-index: 1;
+    position: relative;
+    text-align: center;
+    width:100%;
+    bottom: 12px;;
+    padding: 0px;
+    margin:0px;
+    height: 64px;
+}
+
+.currentworksheader h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 12px;
+}
